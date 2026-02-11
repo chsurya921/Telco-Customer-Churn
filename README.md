@@ -65,7 +65,7 @@ These metrics help evaluate classification performance and identify churn predic
 The full workflow including data preprocessing, EDA, model training, and evaluation is available in Google Colab.
 
 🔗 **Colab Link:**  
-https://colab.research.google.com/drive/1nUb8M9Ye99UF7VMBoRL_Avsbjill0QA6?usp=sharing
+https://colab.research.google.com/drive/1Ah2a8VhgkT6aJLyhTJNtFsCrgsK5lOho#scrollTo=43pJ8L6Ry5RG
 
 ## 🏆 Best Result
 
